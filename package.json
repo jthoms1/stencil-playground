@@ -1,0 +1,11 @@
+{
+  "name": "root",
+  "private": true,
+  "scripts": {
+    "build": "lerna run build"
+  },
+  "devDependencies": {
+    "@stencil/core": "^1.7.0",
+    "lerna": "^3.13.1"
+  }
+}

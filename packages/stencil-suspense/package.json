@@ -1,0 +1,15 @@
+{
+  "name": "stencil-suspense",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Stencil App Starter",
+  "scripts": {
+    "build": "../../node_modules/.bin/stencil build",
+    "start": "../../node_modules/.bin/stencil build --dev --watch --serve",
+    "test": "../../node_modules/.bin/stencil test --spec --e2e",
+    "test.watch": "../../node_modules/.bin/stencil test --spec --e2e --watchAll",
+    "generate": "../../node_modules/.bin/stencil generate"
+  },
+  "dependencies": {},
+  "license": "MIT"
+}
